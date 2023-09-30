@@ -4,7 +4,10 @@
 
 ## Business problem overview
  1. In the telecom industry, customers choose from multiple service providers and actively switch from one operator to another. The industry experiences an average of 15-25% annual churn rate pa. Given the fact that it costs 5-10x more to acquire a new customer, customer retention has now become even more important than customer acquisition.
- 2. In this project, I analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn. 
+ 2. In this project, I analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
+
+    ![Telecom_Customer_Churn_Prediction_Models](https://github.com/amanrai93/Telecom-Churn-Case-Study/assets/123299829/7e0266fe-c555-4137-91e2-8cdbd3e65ee6)
+
 
  ## Metrices to inspect 'churn' -
 
