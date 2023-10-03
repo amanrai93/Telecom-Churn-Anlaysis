@@ -1,4 +1,4 @@
-# Telecom-Churn-Case-Study
+# Telecom-Churn-Analysis
 
 ## A predictive model that tells you when your high valued customer would likely leave your company's subscription for a competitor
 
